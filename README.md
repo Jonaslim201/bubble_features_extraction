@@ -1,5 +1,5 @@
 To run the notebook,
-
+---
 ### 1. Prerequisites
 Ensure you have the UV package manager installed.
 https://docs.astral.sh/uv/
@@ -8,30 +8,30 @@ pip install uv
 ```
 
 Ensure Jupyter extension is installed in VSC.
-
+---
 ### 2. Create virtual environment
 In the root folder, run
 ```bash
 uv venv
 ```
-
+---
 ### 3. Activate the venv using
 **Windows:**
 ```bash
 .venv/Scripts/activate
 ```
-
+---
 **MacOS/Linux:**
 ```bash
 source .venv/bin/activate
 ```
-
+---
 ### 4. Installing dependencies
 While the venv is active, download all the relevant packages using:
 ```bash
 uv sync
 ```
-
+---
 ## Jupyter Notebook Setup (VSCode)
 
 ### 5. Select Kernel
