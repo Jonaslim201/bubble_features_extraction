@@ -6,8 +6,8 @@ https://docs.astral.sh/uv/
 ```bash
 pip install uv
 ```
-
 Ensure Jupyter extension is installed in VSC.
+
 ---
 ### 2. Create virtual environment
 In the root folder, run
